@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noveen Sachdeva</title>
+    <link>/authors/admin/</link>
+    <description>Recent content on Noveen Sachdeva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>Dual-Degree (B.Tech + M.S) student in the Computer Science Department at IIIT Hyderabad. I am very forunate to be advised by Prof. Vikram Pudi, and be a member of the Data Science and Analytics Center, KCIS.
+My research so-far has been aligned towards building better algorithms for recommender systems, especially for music sharing services [RecSys &amp;lsquo;18] [ECIR &amp;lsquo;18], by using the temporal information present in user listening-sequences.
+I also actively contribute to the open-source community, whenever I can find time.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vikram Pudi on Noveen Sachdeva</title>
+    <link>/authors/vikram-pudi/</link>
+    <description>Recent content in Vikram Pudi on Noveen Sachdeva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 11 Feb 2019 01:47:17 -0400</lastBuildDate>
+    
+	<atom:link href="/authors/vikram-pudi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sequential Variational Autoencoders for Collaborative Filtering</title>
+      <link>/publication/wsdm_19/</link>
+      <pubDate>Mon, 11 Feb 2019 01:47:17 -0400</pubDate>
+      
+      <guid>/publication/wsdm_19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attentive Neural Architecture Incorporating Song Features For Music Recommendation</title>
+      <link>/publication/recsys_18/</link>
+      <pubDate>Tue, 02 Oct 2018 01:47:17 -0400</pubDate>
+      
+      <guid>/publication/recsys_18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicit Modelling of the Implicit Short Term User Preferences for Music Recommendation</title>
+      <link>/publication/ecir_18/</link>
+      <pubDate>Sat, 02 Jun 2018 01:47:17 -0400</pubDate>
+      
+      <guid>/publication/ecir_18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
