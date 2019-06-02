@@ -2,6 +2,17 @@
 
 {{ partial "page_header.html" . }}
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141271444-1"></script>
+<script>
+  console.log("This is my function 2");
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141271444-1');
+</script> -->
+
 <div class="universal-wrapper">
   {{ with .Content }}
   <div class="article-style" itemprop="articleBody">{{ . }}</div>

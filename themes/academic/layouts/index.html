@@ -1,5 +1,26 @@
 {{- define "main" -}}
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141271444-1"></script>
+<script>
+  console.log("This is my function 33");
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141271444-1');
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141271444-2"></script>
+<script>
+  console.log("This is my function 22");
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141271444-2');
+</script>
+
 {{ if not (isset site.Params "color_theme") }}
   {{ errorf "Please complete the installation of Academic by following the steps at https://sourcethemes.com/academic/docs/install/" }}
 {{ end }}
