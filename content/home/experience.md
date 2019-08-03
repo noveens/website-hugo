@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "UC San Diego"
   company_url = ""
   location = "San Diego, CA"
-  date_start = "2019-06-01"
+  date_start = "2019-08-01"
   date_end = ""
   description = ""
 
