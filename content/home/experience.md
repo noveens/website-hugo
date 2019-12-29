@@ -18,40 +18,59 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Intern"
+  title = "Intern"
+  company = "Microsoft Research"
+  company_url = ""
+  location = "Bangalore, India"
+  date_start = "2019-12-30"
+  date_end = ""
+  description = """
+  Working with [Dr. Manik Varma](http://manikvarma.org/) and his group on certain aspects of extreme classification.
+  """
+
+[[experience]]
+  title = "Research Assistant"
   company = "UC San Diego"
   company_url = ""
   location = "San Diego, CA"
   date_start = "2019-08-01"
-  date_end = ""
-  description = ""
+  date_end = "2019-10-31"
+  description = """
+  Worked with [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) on aspects of applied machine learning, specifically in the context of NLP and recommender systems. Ascertained a highly relevant problem in existing systems that exploit textual reviews for rating prediction, and generalize it. Currently writing a paper about the realized problem and possible fixes under different scenarios &nbsp; [[Preprint soon]](#experience).
+  """
 
 [[experience]]
-  title = "Research Intern"
+  title = "Research Assistant"
   company = "Cornell University"
   company_url = ""
   location = "Ithaca, NY"
   date_start = "2019-06-01"
   date_end = "2019-07-31"
-  description = ""
+  description = """
+  Worked with [Prof. Thorsten Joachims](http://www.cs.cornell.edu/people/tj/) and his group at the intersection of causal inference, counterfactual learning, and reinforcement learning. Main project focussed on making off-policy learning from biased, logged contextual-bandit data more robust. Formalized a novel, highly relevant problem and generalized different estimators &nbsp; [[Preprint]](https://openreview.net/attachment?id=SklcyJBtvB&name=original_pdf).
+  """
 
 [[experience]]
   title = "Data Science Intern"
-  company = "PwC US"
+  company = "PricewaterhouseCoopers LLP (PwC)"
   company_url = ""
   location = "Tampa, FL"
   date_start = "2018-08-01"
   date_end = "2018-11-01"
-  description = ""
+  description = """
+  Worked with the data science and innovation team on clause extraction from sensitive legal documents for top clients in the US. Formulated a de-generate pipeline and compared different statistical and deep-learning based models for the given task. Reduced task time from days to a few hours, enabling PwC to get new clients in the legal sector.
+  """
 
 [[experience]]
-  title = "Research Intern"
+  title = "Research Assistant"
   company = "ICAR-CNR (National Research Council of Italy)"
   company_url = ""
   location = "Rende, Italy"
   date_start = "2018-05-01"
   date_end = "2018-07-01"
-  description = ""
+  description = """
+  Worked with senior researcher, [Dr. Giuseppe Manco](https://gmanco.github.io/) on building novel and better systems suited for the task of next-item recommendation. Devised a taxonomy of VAE models for collaborative filtering, demonstrating huge gains over state-of-the-art on real-world datasets &nbsp; [[WSDM '19]](https://doi.org/10.1145/3289600.3291007).
+  """
 
 [[experience]]
   title = "Google Summer of Code"
@@ -60,7 +79,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017-05-01"
   date_end = "2017-08-31"
-  description = ""
+  description = "Implemented a [JS-library](https://github.com/owncloud/owncloud-sdk), complete with unit-tests and swagger-documentation, which works both on Node.JS and browser."
 
 [[experience]]
   title = "Teaching Assistant"
@@ -70,12 +89,8 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = "2019-05-01"
   description = """
-  <li>
-    Data Warehousing and Data Mining (CSE445) - <i>Monsoon '18</i>
-  </li>
-  <li>
-    Database Systems (CSE441) - <i>Spring '19</i>
-  </li>
+  * Data Warehousing and Data Mining (CSE445) - *Monsoon '18*
+  * Database Systems (CSE441) - *Spring '19*
   """
 
 +++

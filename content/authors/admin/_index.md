@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Masters Student
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,15 +21,15 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Information Retrieval
-- Recommender Systems
+- Machine Learning
+- Data Mining
+- Causal Inference
 
 education:
   courses:
   - course: B.Tech + M.S in Computer Science
     institution: IIIT Hyderabad
-    year: 2015 - Present
+    year: 2015 - Present (Expected 2020)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -64,10 +64,12 @@ user_groups:
 - Visitors
 ---
 
-Dual-Degree (B.Tech + M.S) student in the Computer Science Department at [IIIT Hyderabad](https://www.iiit.ac.in/). I am very forunate to be advised by [Prof. Vikram Pudi](https://faculty.iiit.ac.in/~vikram/), and be a member of the [Data Science and Analytics Center, KCIS](http://dsac.iiit.ac.in/).
+Final year dual-degree (B.Tech + M.S) student in the CS Department at **IIIT Hyderabad**, where I am advised by [Prof. Vikram Pudi](https://faculty.iiit.ac.in/~vikram/) at the [Data Science and Analytics Center, KCIS](http://dsac.iiit.ac.in/). My (current) research interests in Machine Learning are Data Mining, NLP, Information Retrieval, Causal Inference, and Reinforcement learning **(in no particular order)**.
 
-My research so-far has been aligned towards building better algorithms for recommender systems, especially for music sharing services [[RecSys '18]](https://doi.org/10.1145/3240323.3240397) [[ECIR '18]](https://doi.org/10.1007/978-3-319-76941-7_25), by using the temporal information present in user listening-sequences.
+Previously, I have worked on building better algorithms for recommender systems, especially for music sharing platforms [[RecSys '18]](https://doi.org/10.1145/3240323.3240397) [[ECIR '18]](https://doi.org/10.1007/978-3-319-76941-7_25), by using the temporal information present in user listening-sequences. 
 
-I also actively contribute to the open-source community, whenever I can find time. Proud GSoC'17 (Google Summer of Code) student with [ownCloud](https://github.com/owncloud), GCI '18 (Google Code-In) mentor with [RedHat](http://www.jboss.org/).
+I am fortunate to have the opportunities of working with some of the pioneers in Machine Learning research. At the **National Research Council of Italy (ICAR-CNR)**, I extended on my previous research on sequential recommender systems [[WSDM '19]](https://doi.org/10.1145/3289600.3291007). At **Cornell**, my research on broader topics Causal Inference and Reinforcement Learning, focussed on proposing new estimators for off-policy learning under deficient support [[Preprint]](https://openreview.net/attachment?id=SklcyJBtvB&name=original_pdf). At **UCSD**, I found an intriguing problem in most of the current review based recommender systems, which I aimed to generalize and provide solutions for. More recently, I have been working at **Microsoft Research**, exploring and working on various aspects of extreme classification, a field of high utility in most real-world machine learning applications.
 
-I like to play the guitar, video games and read books during my free time.
+I also try to contribute to the open-source community, whenever I can find time. Proud GSoC'17 (Google Summer of Code) student with [ownCloud](https://github.com/owncloud), GCI '18 (Google Code-In) mentor with [RedHat](http://www.jboss.org/).
+
+I like to play the guitar, video games, and read books during my free time.
