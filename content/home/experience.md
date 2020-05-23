@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = "2019-10-31"
   description = """
-  Worked with [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) on aspects of applied machine learning, specifically in the context of NLP and recommender systems. Ascertained a highly relevant problem in existing systems that exploit textual reviews for rating prediction, and generalize it. Wrote a paper about the realized problem and possible fixes under different scenarios &nbsp; [[SIGIR '20]](https://doi.org/10.1145/3397271.3401281).
+  Worked with [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) on aspects of applied machine learning, specifically in the context of NLP and recommender systems. Ascertained a highly relevant problem in existing systems that exploit textual reviews for rating prediction, and generalize it. Wrote a paper about the realized problem and possible fixes under different scenarios &nbsp; [[SIGIR '20]](https://cseweb.ucsd.edu/~jmcauley/pdfs/sigir20.pdf).
   """
 
 [[experience]]
