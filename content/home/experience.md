@@ -23,9 +23,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Bangalore, India"
   date_start = "2019-12-30"
-  date_end = ""
+  date_end = "2020-06-26"
   description = """
-  Working with [Dr. Manik Varma](http://manikvarma.org/) and his group on certain aspects of extreme classification.
+  Worked with [Dr. Manik Varma](http://manikvarma.org/) and his group towards exploiting graph-based patterns in the context of extreme classification &nbsp; [[Preprint soon]](#).
   """
 
 [[experience]]
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = "2019-07-31"
   description = """
-  Worked with [Prof. Thorsten Joachims](http://www.cs.cornell.edu/people/tj/) and his group at the intersection of causal inference, counterfactual learning, and reinforcement learning. Main project focussed on making off-policy learning from biased, logged contextual-bandit data more robust. Formalized a novel, highly relevant problem and generalized different estimators &nbsp; [[KDD '20]](https://openreview.net/attachment?id=SklcyJBtvB&name=original_pdf).
+  Worked with [Prof. Thorsten Joachims](http://www.cs.cornell.edu/people/tj/) and his group at the intersection of causal inference, counterfactual learning, and reinforcement learning. Main project focussed on making off-policy learning from biased, logged contextual-bandit data more robust. Formalized a novel, highly relevant problem and generalized different estimators &nbsp; [[KDD '20]](https://arxiv.org/pdf/2006.09438.pdf).
   """
 
 [[experience]]
@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = "2018-07-01"
   description = """
-  Worked with senior researcher, [Dr. Giuseppe Manco](https://gmanco.github.io/) on building novel and better systems suited for the task of next-item recommendation. Devised a taxonomy of VAE models for collaborative filtering, demonstrating huge gains over state-of-the-art on real-world datasets &nbsp; [[WSDM '19]](https://doi.org/10.1145/3289600.3291007).
+  Worked with senior researcher, [Dr. Giuseppe Manco](https://gmanco.github.io/) on building novel and better systems suited for the task of next-item recommendation. Devised a taxonomy of VAE models for collaborative filtering, demonstrating huge gains over state-of-the-art on real-world datasets &nbsp; [[WSDM '19]](https://arxiv.org/pdf/1811.09975.pdf).
   """
 
 [[experience]]
