@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: IIIT Hyderabad
+- name: UC San Diego
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,10 @@ education:
   courses:
   - course: B.Tech + M.S in Computer Science
     institution: IIIT Hyderabad
-    year: 2015 - Present (Expected 2020)
+    year: 2015 - 2020 
+  - course: PhD in Computer Science
+    institution: UC San Diego
+    year: 2020 - Present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -38,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ernoveen@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:nosachde@ucsd.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/noveens97
@@ -64,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Final year dual-degree (B.Tech + M.S) student in the CS Department at **IIIT Hyderabad**, where I am advised by [Prof. Vikram Pudi](https://faculty.iiit.ac.in/~vikram/) at the [Data Science and Analytics Center, KCIS](http://dsac.iiit.ac.in/). My (current) research interests in Machine Learning are Data Mining, NLP, Information Retrieval, Causal Inference, and Reinforcement learning **(in no particular order)**.
+I am a PhD student in the CS Department at [**UC San Diego**](https://cse.ucsd.edu/) where I extremely fortunate to be adivsed by [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). My (current) research interests in Machine Learning are Data Mining, NLP, Information Retrieval, Causal Inference, and Reinforcement learning **(in no particular order)**.
 
 Previously, I have worked on building better algorithms for recommender systems, especially for music sharing platforms [[RecSys '18]](https://doi.org/10.1145/3240323.3240397) [[ECIR '18]](https://doi.org/10.1007/978-3-319-76941-7_25), by using the temporal information present in user listening-sequences. 
 
