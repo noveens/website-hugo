@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = "2019-07-31"
   description = """
-  Worked with [Prof. Thorsten Joachims](http://www.cs.cornell.edu/people/tj/) and his group at the intersection of causal inference, counterfactual learning, and reinforcement learning. Main project focussed on making off-policy learning from biased, logged contextual-bandit data more robust. Formalized a novel, highly relevant problem and generalized different estimators &nbsp; [[KDD '20]](https://arxiv.org/pdf/2006.09438.pdf).
+  Worked with [Prof. Thorsten Joachims](http://www.cs.cornell.edu/people/tj/) and his group at the intersection of causal inference, counterfactual learning, and reinforcement learning. The project contributed towards making off-policy learning from biased, logged contextual-bandit data more robust. Formalized a novel, highly relevant problem and generalized different existing estimators &nbsp; [[KDD '20]](https://arxiv.org/pdf/2006.09438.pdf).
   """
 
 [[experience]]
@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = "2018-11-01"
   description = """
-  Worked with the data science and innovation team on clause extraction from sensitive legal documents for top clients in the US. Formulated a de-generate pipeline and compared different statistical and deep-learning based models for the given task. Reduced task time from days to a few hours, enabling PwC to get new clients in the legal sector.
+  Worked with the data science and innovation team on clause extraction from sensitive legal documents for top clients in the US. Formulated a de-generate pipeline and compared different statistical and deep-learning-based models for the given task. Reduced task time from days to a few hours, enabling PwC to get new clients in the legal sector.
   """
 
 [[experience]]
@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = "2018-07-01"
   description = """
-  Worked with senior researcher, [Dr. Giuseppe Manco](https://gmanco.github.io/) on building novel and better systems suited for the task of next-item recommendation. Devised a taxonomy of VAE models for collaborative filtering, demonstrating huge gains over state-of-the-art on real-world datasets &nbsp; [[WSDM '19]](https://arxiv.org/pdf/1811.09975.pdf).
+  Worked with [Dr. Giuseppe Manco](https://gmanco.github.io/) towards building novel and better systems suited for the task of next-item recommendation. Devised a taxonomy of VAE models for collaborative filtering, demonstrating huge gains over the state-of-the-art on real-world datasets &nbsp; [[WSDM '19]](https://arxiv.org/pdf/1811.09975.pdf).
   """
 
 [[experience]]
